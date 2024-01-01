@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "\"My own learning project\"",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talha Sajid",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamTalha-Sajid/nodeJs-learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IamTalha-Sajid/nodeJs-learning/issues"
+  },
+  "homepage": "https://github.com/IamTalha-Sajid/nodeJs-learning#readme"
+}
