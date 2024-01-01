@@ -9,8 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### **Prerequisites**
 What things you need to install the software and how to install them:
--Node.js
--npm (Node Package Manager)
+* Node.js
+* npm (Node Package Manager)
 
 You can download and install them from [Node.js](https://nodejs.org/en) official website.
 
