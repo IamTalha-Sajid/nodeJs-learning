@@ -4,6 +4,9 @@ This project is part of the New Year Coding Challenge focusing on backend develo
 ## **Day 1**
 On Day 1, I set up my Node.js environment and created a simple server that responds with "Hello World".
 
+## **Day 2**
+On Day 2, basics of Node.js, including the event loop and non-blocking I/O.
+
 ### **Getting Started**
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
