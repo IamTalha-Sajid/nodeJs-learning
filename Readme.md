@@ -7,6 +7,17 @@ On Day 1, I set up my Node.js environment and created a simple server that respo
 ## **Day 2**
 On Day 2, basics of Node.js, including the event loop and non-blocking I/O.
 
+# **Node.js Learning**
+These are the main theoretical highlighting points needed to learn
+
+In Node.js, when working with the HTTP module to create a web server and send HTTP responses, you have two methods for setting response headers: `res.writeHead` and `res.setHeader`. In `res.writeHead` we also pass the status code.
+
+```
+res.writeHead(200, { 'Content-Type': 'text/plain' });
+```
+```
+res.setHeader('Content-Type', 'text/plain');
+```
 ### **Getting Started**
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
