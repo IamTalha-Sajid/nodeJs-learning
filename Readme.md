@@ -7,6 +7,9 @@ On Day 1, I set up my Node.js environment and created a simple server that respo
 ## **Day 2**
 On Day 2, basics of Node.js, including the event loop and non-blocking I/O. and some theoretical research.
 
+## **Day 3**
+On Day 3, I delved into asynchronous programming in Node.js and learned about Promises and the `async/await` syntax. I also created a small Node.js application that utilizes Promises and `async/await` to perform asynchronous tasks. Error handling techniques for asynchronous code were also explored.
+
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
 
