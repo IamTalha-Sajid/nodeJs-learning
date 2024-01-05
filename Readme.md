@@ -10,6 +10,19 @@ On Day 2, basics of Node.js, including the event loop and non-blocking I/O. and 
 ## **Day 3**
 On Day 3, I delved into asynchronous programming in Node.js and learned about Promises and the `async/await` syntax. I also created a small Node.js application that utilizes Promises and `async/await` to perform asynchronous tasks. Error handling techniques for asynchronous code were also explored.
 
+## **Day 4**
+On Day 4, I focused on core JavaScript concepts, including variables, data types, operators, functions, scope, closures, callback functions, and working with data structures like arrays and objects.
+
+## **Day 5**
+On Day 5, I will continue to strengthen my core JavaScript knowledge:
+- Review JavaScript fundamentals such as variables, data types, and operators.
+- Dive deeper into JavaScript by exploring the concept of functions, including how to define and call functions.
+- Study variable scope and understand how scope affects variable accessibility.
+- Explore closures in JavaScript and learn how they work.
+- Practice creating and using functions with various parameters and return values.
+- Experiment with different data structures, such as arrays and objects, and understand their usage in JavaScript.
+- Familiarize myself with the concept of callback functions and their importance in asynchronous programming.
+
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
 
