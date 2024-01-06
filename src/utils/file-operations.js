@@ -30,6 +30,7 @@ const deleteFile = (filePath) => {
   }
 };
 
+
 // Function to read file content
 const readFileContent = (filePath) => {
   try {
