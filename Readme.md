@@ -1,27 +1,69 @@
 # **Node.js Learning**
 This project is part of the New Year Coding Challenge focusing on backend development with Node.js.
 
-## **Day 1**
-On Day 1, I set up my Node.js environment and created a simple server that responds with "Hello World".
+## Day 1
 
-## **Day 2**
-On Day 2, basics of Node.js, including the event loop and non-blocking I/O. and some theoretical research.
+**Task: Setting Up Node.js Environment and Creating a Basic Server**
 
-## **Day 3**
-On Day 3, I delved into asynchronous programming in Node.js and learned about Promises and the `async/await` syntax. I also created a small Node.js application that utilizes Promises and `async/await` to perform asynchronous tasks. Error handling techniques for asynchronous code were also explored.
+- Installed Node.js and npm (Node Package Manager) on my computer.
+- Set up my Node.js environment.
+- Created a simple Node.js server that responds with "Hello World."
 
-## **Day 4**
-On Day 4, I focused on core JavaScript concepts, including variables, data types, operators, functions, scope, closures, callback functions, and working with data structures like arrays and objects.
+## Day 2
 
-## **Day 5**
-On Day 5, I will continue to strengthen my core JavaScript knowledge:
-- Review JavaScript fundamentals such as variables, data types, and operators.
-- Dive deeper into JavaScript by exploring the concept of functions, including how to define and call functions.
-- Study variable scope and understand how scope affects variable accessibility.
-- Explore closures in JavaScript and learn how they work.
-- Practice creating and using functions with various parameters and return values.
-- Experiment with different data structures, such as arrays and objects, and understand their usage in JavaScript.
-- Familiarize myself with the concept of callback functions and their importance in asynchronous programming.
+**Task: Understanding the Basics of Node.js**
+
+- Learned about the basics of Node.js, including the event loop and non-blocking I/O.
+- Conducted theoretical research to gain a deeper understanding of Node.js concepts.
+
+## Day 3
+
+**Task: Explore JavaScript Promises and Asynchronous Programming**
+
+- Learned about JavaScript Promises and asynchronous programming concepts.
+- Explored the async/await syntax for handling asynchronous operations in Node.js.
+- Created a small Node.js application that utilizes Promises and async/await to perform asynchronous tasks.
+- Experimented with error handling techniques for asynchronous code.
+
+## Day 4
+
+**Task: Setting Up Your Development Environment**
+
+- Chose a code editor or integrated development environment (IDE) for development.
+- Set up version control using Git and created a GitHub account if not already done.
+- Learned the basics of Git, including creating repositories, committing changes, and pushing to GitHub.
+
+## Day 5
+
+**Task: Core JavaScript Concepts**
+
+- Reviewed JavaScript fundamentals, including variables, data types, and operators.
+- Learned about functions, scope, and closures in JavaScript.
+- Dived into asynchronous programming concepts with callbacks.
+
+## Day 6
+
+**Task: Node.js Modules**
+
+- Explored how Node.js uses modules and the CommonJS module system.
+- Created custom modules and imported them into applications.
+- Practiced organizing code using modular architecture.
+
+## Day 7
+
+**Task: Core Node.js Libraries**
+
+- Learned to use the fs (File System) module to read and write files.
+- Created a simple HTTP server using the http module.
+- Understood the URL module for parsing and handling URLs in web applications.
+
+## Day 8
+
+**Task: Introduction to Express.js**
+
+- Installed Express.js and set up a basic Express application.
+- Defined routes and handled HTTP requests using Express.js.
+- Created a simple API with routes for different endpoints.
 
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
