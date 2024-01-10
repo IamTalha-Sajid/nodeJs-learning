@@ -1,2 +1,2 @@
-const random = require('./randomNumberModule');
+const random = require('./utils/randomNumberModule');
 console.log("First file: ", random.randomNumber);
