@@ -71,7 +71,13 @@ This project is part of the New Year Coding Challenge focusing on backend develo
 
 - Gained an advanced understanding of module.exports and exports in Node.js.
 - Created a complex module for string manipulation, which included functions to reverse strings, convert to uppercase, and convert to lowercase.
-- Explored Node.js's module caching mechanism and experimented with how modules are cached after their first load.
+
+## Day 10
+
+**Task: Understanding Module Caching**
+
+- Read about how Node.js caches modules after they are loaded.
+- Create a small experiment to demonstrate this. For example, you can create a module that outputs a random number. Import this module in two different files and see if the output is the same or different, demonstrating the caching behavior.
 
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
