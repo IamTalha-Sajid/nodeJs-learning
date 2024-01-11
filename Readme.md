@@ -79,6 +79,14 @@ This project is part of the New Year Coding Challenge focusing on backend develo
 - Read about how Node.js caches modules after they are loaded.
 - Create a small experiment to demonstrate this. For example, you can create a module that outputs a random number. Import this module in two different files and see if the output is the same or different, demonstrating the caching behavior.
 
+## Day 11
+
+**Task: URL Module for Web Applications**
+
+- Familiarize yourself with the url module.
+- Learn to parse and handle URLs in your Node.js applications.
+- Extract different parts of a URL such as the pathname, query string, and parameters.
+
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
 
