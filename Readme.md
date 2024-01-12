@@ -87,6 +87,13 @@ This project is part of the New Year Coding Challenge focusing on backend develo
 - Learn to parse and handle URLs in your Node.js applications.
 - Extract different parts of a URL such as the pathname, query string, and parameters.
 
+## Day 12
+
+**Task: Explore Reading and Writing Files**
+
+- After reading files, try writing to a file. This could be as simple as creating a new text file and writing some content to it.
+
+
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
 
