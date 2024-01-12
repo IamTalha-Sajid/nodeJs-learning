@@ -65,6 +65,14 @@ This project is part of the New Year Coding Challenge focusing on backend develo
 - Defined routes and handled HTTP requests using Express.js.
 - Created a simple API with routes for different endpoints.
 
+## Day 9
+
+**Task: Deep Dive into Node.js Modules**
+
+- Gained an advanced understanding of module.exports and exports in Node.js.
+- Created a complex module for string manipulation, which included functions to reverse strings, convert to uppercase, and convert to lowercase.
+- Explored Node.js's module caching mechanism and experimented with how modules are cached after their first load.
+
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
 
