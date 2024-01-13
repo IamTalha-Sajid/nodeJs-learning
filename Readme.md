@@ -93,6 +93,14 @@ This project is part of the New Year Coding Challenge focusing on backend develo
 
 - After reading files, try writing to a file. This could be as simple as creating a new text file and writing some content to it.
 
+## Day 13
+
+**Task: Core Node.js Libraries - HTTP Module**
+
+- Created an HTTP server using Node.js's built-in `http` module.
+- Implemented basic routing in the server to respond to different URLs with specific messages or HTML content.
+- Explored the properties and methods of the `request` and `response` objects.
+- Practiced handling different HTTP request types and sending appropriate responses.
 
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
