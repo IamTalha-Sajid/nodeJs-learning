@@ -102,6 +102,13 @@ This project is part of the New Year Coding Challenge focusing on backend develo
 - Explored the properties and methods of the `request` and `response` objects.
 - Practiced handling different HTTP request types and sending appropriate responses.
 
+## Day 14
+
+**Task: Core Node.js Libraries - fs, http, url**
+
+- Deepened understanding of Node.js's core modules: fs, http, and url.
+- Developed practical skills in file manipulation, creating HTTP servers, and handling URLs.
+
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
 
