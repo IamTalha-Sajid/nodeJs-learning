@@ -109,6 +109,14 @@ This project is part of the New Year Coding Challenge focusing on backend develo
 - Deepened understanding of Node.js's core modules: fs, http, and url.
 - Developed practical skills in file manipulation, creating HTTP servers, and handling URLs.
 
+## Day 15
+
+**Task: Introduction to Express.js with Web Page and Form Handling**
+
+- Set up a basic Express.js application to serve HTML content.
+- Created an HTML form within the served page to collect user input.
+- Handled form submission on the server-side, extracting and logging the submitted data.
+
 # **Node.js Learning**
 These are the main theoretical highlighting points needed to learn
 
